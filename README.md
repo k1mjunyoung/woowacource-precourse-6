@@ -2,5 +2,5 @@
 
 ## References
 
-* [Java 코드 컨벤션](https://github.com/k1mjunyoung/woowacourse-precourse-6/java-style-guide.md)
-* [커밋 메세지 컨벤션](https://github.com/k1mjunyoung/woowacourse-precourse-6/commit-message-convention.md)
+* [Java 코드 컨벤션](https://github.com/k1mjunyoung/woowacource-precourse-6/blob/main/java-style-guide.md)
+* [커밋 메세지 컨벤션](https://github.com/k1mjunyoung/woowacource-precourse-6/blob/main/commit-message-convention.md)
